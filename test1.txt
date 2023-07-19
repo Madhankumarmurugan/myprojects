@@ -1,1 +1,3 @@
-l am very lazy 
+l am very lazy--changes 1
+
+django very easy to study--changes2
